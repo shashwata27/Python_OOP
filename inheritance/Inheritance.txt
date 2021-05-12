@@ -1,0 +1,10 @@
+A class is B class's sub/child class, then A class can access all the features of class B, but B being parent class
+cant access the features of A class
+
+if we dont have a consturctor __init__ in a sub class then it will call the init of its superclass
+but if it does have a constructor it will call its only
+
+eg; we as me and you inherit certain properties from
+
+MRO(method resolution order)
+it prefers the left most class's constructor in multiple inhertance

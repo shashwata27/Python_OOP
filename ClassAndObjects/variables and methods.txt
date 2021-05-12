@@ -1,0 +1,23 @@
+variables 2 types:
+
+1.the self.variables in a class are instance variables, they change with the object(belongs to instance namespace)
+
+2. if we define a variable inside the class and outside __init__ is becomes a static/class variable(belongs to class namespace)
+ if we want to change a class variable we have change it byt calling it through the class i.e. class.variable=new value
+
+
+
+
+methods 3 types:
+
+1. Instance methods ,the methods with self in the method arrgument
+    again instance metods can be 2 types: getters/accessors and setters/mutators
+    get methods get the value of a attribute
+    set methods set the value of a attribute
+
+2.class methods,
+ the methods with cls in the method arrgument
+ and we have to use decorators before method if we dont want to pass the class again
+
+3.static methods,
+methods that interact with neither instances(self) nor the class(cls) are static() methods

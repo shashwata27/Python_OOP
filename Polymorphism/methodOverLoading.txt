@@ -1,0 +1,8 @@
+in other languages we can name two methods with same name within a same class
+but having different arguments, this is method overloading.
+when we will call the method with ists name the method with matching type of arguments
+will atomatically get called(in other languages)
+
+but we cant name two methods the same within the same class in python
+
+so we cant do it by *args or by assinging variables to None while definig method

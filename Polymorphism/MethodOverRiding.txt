@@ -1,0 +1,10 @@
+__init__() method was defined in both classes, Triangle as well Polygon.
+ When this happens, the method in the derived class overrides that in the base class.
+ This is to say, __init__() in Triangle gets preference over the __init__ in Polygon.
+
+ Generally when overriding a base method, we tend to extend the definition rather than simply replace it.
+ The same is being done by calling the method in base class from the one in derived class
+ (calling Polygon.__init__() from __init__() in Triangle).
+
+A better option would be to use the built-in function super().
+ So, super().__init__(3) is equivalent to Polygon.__init__(self,3) and is preferred.

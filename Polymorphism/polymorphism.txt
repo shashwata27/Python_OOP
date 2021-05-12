@@ -1,0 +1,11 @@
+one thing that behaves in different forms.
+    poly-morph-ism
+
+    gives the system the ability to do same thing differently for diff objects
+
+ types:
+ 
+1.DuckTyping
+2.Operator Overloading
+3.method Overloading
+4.method Overriding

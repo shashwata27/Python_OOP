@@ -1,0 +1,15 @@
+we think everything as an Object which is part of a class
+
+every object have two properties i.e. attributes and behaviour
+
+attributes(variables): what the object knows
+
+behaviour(methods/functions): what the object does
+
+object does something i.e behavior based on what it knows i.e attributes
+
+in class we specify the design/blueprint the object,
+ where object are representing real entities thus objects are instances of class
+
+
+eg;  car class and nissan, honda be objects of it

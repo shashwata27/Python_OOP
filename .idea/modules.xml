@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AnonomousOrLambdaFunc/.idea/AnonomousOrLambdaFunc.iml" filepath="$PROJECT_DIR$/../AnonomousOrLambdaFunc/.idea/AnonomousOrLambdaFunc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Arguments/.idea/Arguments.iml" filepath="$PROJECT_DIR$/../Arguments/.idea/Arguments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Array()/.idea/Array().iml" filepath="$PROJECT_DIR$/../Array()/.idea/Array().iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassAndObjects/.idea/ClassAndObjects.iml" filepath="$PROJECT_DIR$/ClassAndObjects/.idea/ClassAndObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CommanLineScripts/.idea/CommanLineScripts.iml" filepath="$PROJECT_DIR$/../CommanLineScripts/.idea/CommanLineScripts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Golbal/.idea/Golbal.iml" filepath="$PROJECT_DIR$/../Golbal/.idea/Golbal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ImportReadRight/.idea/ImportReadRight.iml" filepath="$PROJECT_DIR$/../ImportReadRight/.idea/ImportReadRight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP.iml" filepath="$PROJECT_DIR$/.idea/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../decorators/.idea/decorators.iml" filepath="$PROJECT_DIR$/../decorators/.idea/decorators.iml" />
+    </modules>
+  </component>
+</project>
